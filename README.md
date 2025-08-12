@@ -1,2 +1,1 @@
-# x86doc
-MongoDB Bugbounty POC by @nvk0x
+# MongoDB Bugbounty POC by @nvk0x
